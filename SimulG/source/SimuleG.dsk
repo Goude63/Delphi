@@ -1,0 +1,216 @@
+[Main Window]
+Create=1
+Visible=1
+State=0
+Left=27
+Top=14
+Width=1036
+Height=105
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=1028
+ClientHeight=78
+
+[PropertyInspector]
+Create=1
+Visible=1
+State=0
+Left=3
+Top=113
+Width=283
+Height=588
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=273
+ClientHeight=562
+TBDockHeight=556
+LRDockWidth=248
+Dockable=1
+SplitPos=109
+
+[WatchWindow]
+Create=1
+Visible=0
+State=0
+Left=11
+Top=0
+Width=762
+Height=113
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=762
+ClientHeight=113
+TBDockHeight=113
+LRDockWidth=421
+Dockable=1
+
+[Modules]
+Module0=C:\Program Files\Borland\Delphi4\Projects\simuleG\SimuleGF.pas
+Module1=C:\Program Files\Borland\Delphi4\Projects\simuleG\FDatabase.pas
+Module2=C:\Program Files\Borland\Delphi4\Projects\simuleG\Fdetails.pas
+Module3=C:\Program Files\Borland\Delphi4\Projects\simuleG\SimuleG.dpr
+Count=4
+EditWindowCount=1
+
+[C:\Program Files\Borland\Delphi4\Projects\simuleG\Fdetails.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[C:\Program Files\Borland\Delphi4\Projects\simuleG\FDatabase.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[C:\Program Files\Borland\Delphi4\Projects\simuleG\SimuleG.dpr]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[C:\Program Files\Borland\Delphi4\Projects\simuleG\SimuleGF.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[C:\Program Files\Borland\Delphi4\Projects\ProjectGroup1.bpg]
+FormState=0
+FormOnTop=0
+
+[EditWindow0]
+CodeExplorer=CodeExplorer@EditWindow0
+MessageView=MessageView@EditWindow0
+Create=1
+Visible=1
+State=0
+Left=206
+Top=291
+Width=754
+Height=429
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=746
+ClientHeight=402
+LeftPanelSize=0
+LeftPanelClients=CodeExplorer@EditWindow0
+LeftPanelData=00000400010000000C000000436F64654578706C6F7265720000000000000000000000000000000000FFFFFFFF
+RightPanelSize=0
+BottomPanelSize=0
+BottomPanelClients=MessageView@EditWindow0,WatchWindow
+BottomPanelData=00000400020000000B0000004D657373616765566965770B000000576174636857696E646F777100000000000000000503000000000000FFFFFFFF
+ViewCount=4
+CurrentView=0
+View0=0
+View1=1
+View2=2
+View3=3
+
+[CodeExplorer@EditWindow0]
+Create=1
+Visible=0
+State=0
+Left=0
+Top=11
+Width=140
+Height=554
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=140
+ClientHeight=554
+TBDockHeight=305
+LRDockWidth=140
+Dockable=1
+
+[MessageView@EditWindow0]
+Create=1
+Visible=0
+State=0
+Left=11
+Top=0
+Width=735
+Height=52
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=735
+ClientHeight=52
+TBDockHeight=52
+LRDockWidth=443
+Dockable=1
+
+[View0]
+Module=C:\Program Files\Borland\Delphi4\Projects\simuleG\SimuleGF.pas
+CursorX=56
+CursorY=7
+TopLine=1
+LeftCol=1
+
+[View1]
+Module=C:\Program Files\Borland\Delphi4\Projects\simuleG\FDatabase.pas
+CursorX=82
+CursorY=78
+TopLine=1
+LeftCol=1
+
+[View2]
+Module=C:\Program Files\Borland\Delphi4\Projects\simuleG\SimuleG.dpr
+CursorX=1
+CursorY=14
+TopLine=1
+LeftCol=1
+
+[View3]
+Module=C:\Program Files\Borland\Delphi4\Projects\simuleG\Fdetails.pas
+CursorX=1
+CursorY=101
+TopLine=1
+LeftCol=1
+
+[DockHosts]
+DockHostCount=0
+
+[Watches]
+Count=0
+
+[Breakpoints]
+Count=1
+Breakpoint0='C:\Program Files\Borland\Delphi4\Projects\simuleG\SimuleGF.pas',3629,'',0,1
+
+[AddressBreakpoints]
+Count=0
+
+[PVCS Browser]
+Left=425
+Top=189
+Width=625
+Height=393
+State=0
+Visible=0
+
+[PVCS VDiff]
+Left=463
+Top=204
+Width=591
+Height=608
+Layout=1
+Orientation=1
+State=0
+Visible=0
+File1Color=16711680
+File2Color=255
+SpaceColor=16776960
+TextColor=0
+
+[Closed Files]
+File_0=SourceModule,'c:\program files\borland\delphi4\source\vcl\Forms.pas',0,1,6781,1,6484,0,0
+File_1=SourceModule,'C:\Program Files\Borland\Delphi4\Projects\simuleG\SimuleGF.dfm',0,1,1,1,1,0,0
+File_2=SourceModule,'C:\Program Files\Borland\Delphi4\Projects\boules\boulesU.pas',0,1,82,44,97,1,1
+File_3=SourceModule,'C:\Program Files\Borland\Delphi4\Projects\Intérêt\FInt.pas',0,1,159,1,170,1,0
+File_4=SourceModule,'c:\program files\borland\delphi4\source\rtl\Win\mmsystem.pas',0,1,1,37,4166,0,0
+File_5=SourceModule,'c:\program files\borland\delphi4\source\rtl\Win\windows.pas',0,1,6663,31,6674,0,0
+File_6=SourceModule,'c:\program files\borland\delphi4\source\rtl\Sys\SysInit.pas',0,1,245,28,256,0,0
+File_7=SourceModule,'C:\biblio\esl\eslMain.pas',0,1,232,20,250,1,0
+File_8=SourceModule,'C:\biblio\esl\Detail.pas',0,1,54,37,96,1,0
+
+[C:\Program Files\Borland\Delphi4\Bin\ProjectGroup1.bpg]
+FormState=0
+FormOnTop=0
+
